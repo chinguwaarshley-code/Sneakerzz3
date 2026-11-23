@@ -1,0 +1,6 @@
+#FileLock
+#Mon Nov 23 13:12:18 SAST 2026
+hostName=192.168.1.240
+id=1a2081b496288d1cb9add208e4c75401ec8216d58ab
+method=file
+server=192.168.1.240\:50479
